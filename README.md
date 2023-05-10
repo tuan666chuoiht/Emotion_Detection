@@ -11,7 +11,7 @@ https://www.kaggle.com/code/mohamedchahed/human-emotion-detection
 ## How to install
 
 <br/>
-<b>Step 1:</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1:</b> Clone this repository: https://github.com/tuan666chuoiht/Emotion_Detection
 <br/>
 <b>Step 2:</b> Create a new virtual environment and activate
 <br/>
