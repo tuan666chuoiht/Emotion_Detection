@@ -14,6 +14,7 @@ https://www.kaggle.com/code/mohamedchahed/human-emotion-detection
 <b>Step 1:</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
 <br/>
 <b>Step 2:</b> Create a new virtual environment and activate
+<br/>
 <pre>
 python -m venv <name_venv>
 </pre>
