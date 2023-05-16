@@ -3,6 +3,7 @@
 ## Introduction:
 
 Here is my tensorflow implementation of the model emotion detection using CNN
+Metrics: RMSprop
 
 ## Datasets:
 
