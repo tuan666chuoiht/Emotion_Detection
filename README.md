@@ -42,3 +42,11 @@ Run 'Project 9.ipynb if you want test model
 ![image](https://github.com/tuan666chuoiht/Emotion_Detection/assets/133035942/a703fff8-1ad2-40da-814e-0f3130cd037e)
 
 ![image](https://github.com/tuan666chuoiht/Emotion_Detection/assets/133035942/2a84d783-8e52-46b0-9087-ac82ce242f24)
+
+## Requirements
+
+* **python 3.6**
+* **tensorflow** 
+* **numpy**
+* **matplotlib**
+* **OpenCV**
